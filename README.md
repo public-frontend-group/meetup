@@ -1,6 +1,8 @@
 # `Collective Intelligence FE Group` offline meetup
 `#frontend` Channel in AWSKRUG Slack
 - [Slack invitation link](http://slack.awskr.org)
+- [질문과 토론과 제안의 장](https://github.com/public-frontend-group/meetup/issues)
+- [스터디 로드맵](https://github.com/orgs/public-frontend-group/projects/1)
 
 ## 1st meetup
 
