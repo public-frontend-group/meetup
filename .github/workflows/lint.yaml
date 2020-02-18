@@ -1,6 +1,13 @@
 name: lint
 
-on: [push]
+on:
+  push:
+    paths:
+      - "**.md"
+      - ".markdownlint.json"
+      - "package.json"
+      - "yarn.lock"
+      - ".nvmrc"
 
 jobs:
   lint:
