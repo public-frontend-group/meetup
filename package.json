@@ -1,8 +1,9 @@
 {
-  "name": "meetup",
+  "name": "@public-frontend-group/meetup",
+  "private": true,
   "scripts": {
     "lint": "markdownlint --ignore .git --ignore node_modules",
-    "format":"yarn lint --fix",
+    "format": "yarn lint --fix",
     "husky-skip": "cross-env HUSKY_SKIP_HOOKS=1"
   },
   "husky": {
@@ -27,4 +28,3 @@
     "markdownlint-cli": "^0.22.0"
   }
 }
-
