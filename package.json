@@ -1,0 +1,30 @@
+{
+  "name": "meetup",
+  "scripts": {
+    "lint": "markdownlint --ignore .git --ignore node_modules",
+    "format":"yarn lint --fix",
+    "husky-skip": "cross-env HUSKY_SKIP_HOOKS=1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.md": [
+      "yarn format"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-frontend-group/meetup.git"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/public-frontend-group/meetup#readme",
+  "devDependencies": {
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.7",
+    "markdownlint-cli": "^0.22.0"
+  }
+}
+
