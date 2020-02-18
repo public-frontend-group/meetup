@@ -1,5 +1,8 @@
 # `Collective Intelligence FE Group` offline meetup
 
+![lint](https://github.com/public-frontend-group/meetup/workflows/lint/badge.svg)
+![pr welcome](https://img.shields.io/badge/issues-welcome-18ffff.svg)
+
 `#frontend` Channel in AWSKRUG Slack
 
 - [Slack invitation link](http://slack.awskr.org)
