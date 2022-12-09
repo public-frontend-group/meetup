@@ -48,7 +48,7 @@
     - Lightening Talk
       - [`길병찬`]님 - ZEIT Now
     - 발표
-      - [`박찬민(pcm@Slack)`]()님 - [Static Website Hosting with AWS]()
+      - [`박찬민(pcm@Slack)`]()님 - [Static Website Hosting with AWS](https://www.slideshare.net/ChanMinPark12/static-website-hosting-with-aws-frontend-meetup)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
