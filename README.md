@@ -10,7 +10,39 @@
 - [스터디 로드맵](https://github.com/orgs/public-frontend-group/projects/1)
 
 # Meetups
+
+## 2023년
+
+<details>
+  <summary>3rd meetup - <b>혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 서버리스 웹 플랫폼 서비스 구현 후기 - Frontend ver.</b></summary>
+
+  ### `3rd meetup`
+  - **주최**
+    - [2023년 01월 04일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/290439212/)
+  - **주제**
+    - Lightening Talk
+      - 김태웅님 - 판교모임/자격증모임 소개
+      - 최진영님 - AWS serverless 아키텍쳐 소개
+      - 박찬민님 - "웹에서 사용자가 입력 못하는 값도 \<input\>으로 보여줄까?" 에 대한 토론
+      - 성기동님 - DND 소개
+    - 발표
+      - [`박태성(geoseong@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile/)님 - [혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 서버리스 웹 플랫폼 서비스 구현 후기 - Frontend ver.](https://www.slideshare.net/TaeSeongPark2/nextjs-amplify-serverless-framework-frontend-ver)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/6/b/6/highres_509645814.webp?w=1920" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/6/a/1/highres_509645793.webp?w=1920" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/6/b/8/highres_509645816.webp?w=1920" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/6/b/e/highres_509645822.webp?w=1920" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/6/b/b/highres_509645819.webp?w=1920" width="350"/>
+</details>
+
 ## 2022년
+
 <details>
   <summary>2nd meetup - <b>프로그래머스 프론트엔드 아키텍처 변천사</b></summary>
 
@@ -21,7 +53,7 @@
     - Lightening Talk
       - 오거나이저 소개, 모임운영방식 공유, 참가자 적극적인 토론 독려
     - 발표
-      - [`김은수(Eunsu Kim@Slack)`]()님 - [프로그래머스 프론트엔드 아키텍처 변천사: 좋은 개발 경험을 찾아서](https://www.slideshare.net/PeterEunsuKim/ss-254807863)
+      - [`김은수(Eunsu Kim@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/370869556/profile/)님 - [프로그래머스 프론트엔드 아키텍처 변천사: 좋은 개발 경험을 찾아서](https://www.slideshare.net/PeterEunsuKim/ss-254807863)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
