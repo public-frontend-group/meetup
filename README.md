@@ -22,6 +22,7 @@
   - **주제**
     - 발표
       - [`박성천 (Park Sungchun@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님 - [서버리스로 만드는 테스트 커버리지 배지 서비스](./keynotes/230308_serverless_test_coverage_badge_service.pdf)
+      - **발표 코드**: https://gitlab.com/new.sungchuni/coverages
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
