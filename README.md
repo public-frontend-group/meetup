@@ -14,6 +14,21 @@
 ## 2023년  
 
 <details>
+  <summary>5th meetup - <b>서버리스로 만드는 테스트 커버리지 배지 서비스</b></summary>
+
+  ### `5th meetup`
+  - **주최**
+    - [2023년 03월 08일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/291635141/)
+  - **주제**
+    - 발표
+      - [`박성천 (Park Sungchun@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님 - [서버리스로 만드는 테스트 커버리지 배지 서비스](./keynotes/230308_serverless_test_coverage_badge_service.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/0/d/1/highres_511172977.webp?w=1920" width="350"/>
+</details>
+
+<details>
   <summary>4th meetup - <b>AWS Amplify의 Hosting 기능을 사용해서 SPA 형식의 프론트엔드 프로젝트를 운영해본 후기</b></summary>
 
   ### `4th meetup`
