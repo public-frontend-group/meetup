@@ -13,8 +13,6 @@
 
 ## 2023년 
 
-https://docs.google.com/presentation/d/1t3Hcpeo_DfmhtbEs1JKas-tOlagahEpp
-
 <details>
   <summary>6th meetup - <b>서버리스로 만드는 테스트 커버리지 배지 서비스</b></summary>
 
