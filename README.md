@@ -6,6 +6,7 @@
 `#frontend` Channel in AWSKRUG Slack
 
 - [Slack invitation link](http://slack.awskr.org)
+- [AWSKRUG #frontend Youtube Channel](https://www.youtube.com/watch?v=M6njEpzPicE&list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - [질문과 토론과 제안의 장](https://github.com/public-frontend-group/meetup/issues)
 - [스터디 로드맵](https://github.com/orgs/public-frontend-group/projects/1)
 
