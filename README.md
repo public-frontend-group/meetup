@@ -14,7 +14,7 @@
 ## 2023년 
 
 <details>
-  <summary>6th meetup - <b>서버리스로 만드는 테스트 커버리지 배지 서비스</b></summary>
+  <summary>6th meetup - <b>스토리북: UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개</b></summary>
 
   ### `6th meetup`
   - **주최**
