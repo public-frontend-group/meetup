@@ -15,6 +15,29 @@
 ## 2023년 
 
 <details>
+  <summary>7th meetup - <b>Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가</b></summary>
+
+  ### `7th meetup`
+  - **주최**
+    - [2023년 05월 10일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/292866390/)
+  - **주제**
+    - 발표
+      - [`안건환 (conan.the.developer@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/222503499/profile/)님 - [Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가](https://docs.google.com/presentation/d/12kpH3kBcj691NH0Z05Yj0Wa--JjMUTDaprf-R_7gN2g/edit?usp=sharing)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/1/f/3/highres_512780979.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/1/f/4/highres_512780980.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/1/f/6/highres_512780982.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/1/f/7/highres_512780983.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/1/f/9/highres_512780985.webp" width="350"/>
+</details>
+
+<details>
   <summary>6th meetup - <b>스토리북: UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개</b></summary>
 
   ### `6th meetup`
