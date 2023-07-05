@@ -49,12 +49,12 @@
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/336269517_185298034308637_675844167759478748_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=CvwrkHjHfecAX9_dL9_&_nc_ht=scontent-ssn1-1.xx&oh=00_AfC1FkhJX1kexMZTybP1nUKRaPY3Dn10rTC_ynG85lY0wg&oe=6434E61D" width="350"/>
-  <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/336670055_559839062907721_7253057857121961629_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=itO8cvnktY4AX-90WZ7&_nc_ht=scontent-ssn1-1.xx&oh=00_AfCVqvORNIhzT1C_DmbWsrps5S7yvUlO-SICSnoiaJXB5g&oe=643553C4" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/4/4/d/highres_511846157.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/8/6/2/highres_511847202.webp" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/336211032_139929648843390_4060500472326014533_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=MW8MZigP9N8AX__ndtL&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAOzvyTHF8vGBM03RN24P5_6HCiCu8MOv-rCWxjBXQoUA&oe=6434D089" width="350"/>
-  <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/336532398_581787884014898_8472105990660617117_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=Zzh1j765tNYAX-eKE85&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAs4y1dP_09iGY_yb7M8sG1yyHXMSnU3HXzsC1AZEbXJQ&oe=6434E81D" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/8/6/0/highres_511847200.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/4/4/f/highres_511846159.webp" width="350"/>
 </details>
 
 <details>
