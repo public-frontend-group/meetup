@@ -15,6 +15,26 @@
 ## 2023년 
 
 <details>
+  <summary>8th meetup - <b>React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)</b></summary>
+
+  ### `8th meetup`
+  - **주최**
+    - [2023년 07월 12일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/294453954/)
+  - **주제**
+    - 발표
+      - [`윤창현 (Changhyeon Yoon@Slack)`](https://linkedin.com/in/yooniversedev)님 - [React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/8/1/c/highres_514354844.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/6/6/d/highres_514354413.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/8/1/b/highres_514354843.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/8/2/d/highres_514354861.webp" width="350"/>
+</details>
+
+<details>
   <summary>7th meetup - <b>Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가</b></summary>
 
   ### `7th meetup`
