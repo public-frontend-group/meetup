@@ -22,7 +22,9 @@
     - [2023년 07월 12일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/294453954/)
   - **주제**
     - 발표
-      - [`윤창현 (Changhyeon Yoon@Slack)`](https://linkedin.com/in/yooniversedev)님 - [React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pdf)
+      - [`윤창현 (Changhyeon Yoon@Slack)`](https://linkedin.com/in/yooniversedev)님 - **React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)**
+        - [PDF](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pdf)
+        - [PPTX](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pptx)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
