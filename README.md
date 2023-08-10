@@ -15,6 +15,29 @@
 ## 2023년 
 
 <details>
+  <summary>9th meetup - <b>Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)</b></summary>
+
+  ### `9th meetup`
+  - **주최**
+    - [2023년 08월 09일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/294944079/)
+  - **주제**
+    - 발표
+      - [`윤해수 (Harry@Slack)`](https://github.com/haesoo-y/)님 - **Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)**
+        - [PDF](./keynotes/AWSKRUG-Frontend-230809-SSRvsRSC.pdf)
+        - [Github Code](https://github.com/haesoo-y/study-nextjs)
+        - [Blog Post](https://haesoo9410.tistory.com/404)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/8/1/4/highres_515010740.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/8/1/b/highres_515010747.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/8/1/6/highres_515010742.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/8/1/5/highres_515010741.webp" width="350"/>
+</details>
+
+<details>
   <summary>8th meetup - <b>React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)</b></summary>
 
   ### `8th meetup`
