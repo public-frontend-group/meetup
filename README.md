@@ -15,6 +15,29 @@
 ## 2023년 
 
 <details>
+  <summary>10th meetup - <b>개발자가 알아야 할 API 보안 이야기</b></summary>
+
+  ### `10th meetup`
+  - **주최**
+    - [2023년 09월 06일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/295755827/)
+  - **주제**
+    - 발표
+      - [`이지영 (이지영@Slack)`]()님 - **개발자가 알아야 할 API 보안 이야기**
+        - [PPTX](./keynotes/AWSKRUG-Frontend-230906-apisecurity.pptx)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/a/7/b/highres_515695931.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/a/7/e/highres_515695934.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/a/8/0/highres_515695936.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/a/8/2/highres_515695938.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/a/8/3/highres_515695939.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>9th meetup - <b>Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)</b></summary>
 
   ### `9th meetup`
