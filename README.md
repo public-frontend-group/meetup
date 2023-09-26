@@ -1,7 +1,10 @@
 # `Collective Intelligence FE Group` offline meetup
 
-![lint](https://github.com/public-frontend-group/meetup/workflows/lint/badge.svg)
 ![pr welcome](https://img.shields.io/badge/issues-welcome-18ffff.svg)
+
+AWSKRUG 프론트엔드 소모임은 프론트엔드 개발자들의 지식과 노하우를 나누면서 함께 성장하는 모임입니다.<br>
+AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 내용도 공유할 수 있습니다.<br>
+그리고 편안한 분위기, 토론 및 질문/답변을 환영하는 문화를 지향합니다.
 
 `#frontend` Channel in AWSKRUG Slack
 
@@ -24,6 +27,7 @@
     - 발표
       - [`이지영 (이지영@Slack)`]()님 - **개발자가 알아야 할 API 보안 이야기**
         - [PPTX](./keynotes/AWSKRUG-Frontend-230906-apisecurity.pptx)
+        - [YouTube](https://youtu.be/_B2Cw2dWvMs)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +51,7 @@
     - 발표
       - [`윤해수 (Harry@Slack)`](https://github.com/haesoo-y/)님 - **Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)**
         - [PDF](./keynotes/AWSKRUG-Frontend-230809-SSRvsRSC.pdf)
+        - [YouTube](https://www.youtube.com/watch?v=qqhtdTV7Kqk)
         - [Github Code](https://github.com/haesoo-y/study-nextjs)
         - [Blog Post](https://haesoo9410.tistory.com/404)
 
@@ -71,6 +76,7 @@
       - [`윤창현 (Changhyeon Yoon@Slack)`](https://linkedin.com/in/yooniversedev)님 - **React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)**
         - [PDF](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pdf)
         - [PPTX](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pptx)
+        - [YouTube](https://www.youtube.com/watch?v=Ecg52wAlYus)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,7 +96,10 @@
     - [2023년 05월 10일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/292866390/)
   - **주제**
     - 발표
-      - [`안건환 (conan.the.developer@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/222503499/profile/)님 - [Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가](https://docs.google.com/presentation/d/12kpH3kBcj691NH0Z05Yj0Wa--JjMUTDaprf-R_7gN2g/edit?usp=sharing)
+      - [`안건환 (conan.the.developer@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/222503499/profile/)님 - **Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가**
+        - [Google Slide](https://docs.google.com/presentation/d/12kpH3kBcj691NH0Z05Yj0Wa--JjMUTDaprf-R_7gN2g/edit?usp=sharing)
+        - [YouTube](https://www.youtube.com/watch?v=Ino03JPppU4)
+
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,7 +122,9 @@
     - [2023년 04월 05일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/292358230/)
   - **주제**
     - 발표
-      - [`Florian Ludot (Florian Ludot@Slack)`](https://florianldt.com/)님 - [스토리북: UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://docs.google.com/presentation/d/1t3Hcpeo_DfmhtbEs1JKas-tOlagahEpp)
+      - [`Florian Ludot (Florian Ludot@Slack)`](https://florianldt.com/)님 - **스토리북: UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개**
+        - [Google Slide](https://docs.google.com/presentation/d/1t3Hcpeo_DfmhtbEs1JKas-tOlagahEpp)
+        - [YouTube](https://www.youtube.com/watch?v=MFhzwwcmWj0)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -133,8 +144,10 @@
     - [2023년 03월 08일 / 프로그래머스](https://www.meetup.com/ko-KR/awskrug/events/291635141/)
   - **주제**
     - 발표
-      - [`박성천 (Park Sungchun@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님 - [서버리스로 만드는 테스트 커버리지 배지 서비스](./keynotes/230308_serverless_test_coverage_badge_service.pdf)
-      - **발표 코드**: https://gitlab.com/new.sungchuni/coverages
+      - [`박성천 (Park Sungchun@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님 - **서버리스로 만드는 테스트 커버리지 배지 서비스**
+        - **발표 코드**: https://gitlab.com/new.sungchuni/coverages
+        - [PDF](./keynotes/230308_serverless_test_coverage_badge_service.pdf)
+        - [YouTube](https://www.youtube.com/watch?v=xi9_uJ1no0c)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -152,7 +165,9 @@
       - 김영익님 - 구디모임 소개, 라이트닝토크 사은품 증정
       - 박찬민님 - '이런 리더/동료/팀원과 일하고 싶다'에 대한 토론 & '코드리뷰에서 무엇을 신경쓰는가'에 대한 토론
     - 발표
-      - [`박찬민(pcm@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/224099023/profile)님 - [AWS Amplify의 Hosting 기능을 사용해서 SPA 형식의 프론트엔드 프로젝트를 운영해본 후기](https://www.slideshare.net/ChanMinPark12/spa-aws-amplify-hosting)
+      - [`박찬민(pcm@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/224099023/profile)님 - **AWS Amplify의 Hosting 기능을 사용해서 SPA 형식의 프론트엔드 프로젝트를 운영해본 후기**
+        - [Slideshare](https://www.slideshare.net/ChanMinPark12/spa-aws-amplify-hosting)
+        - [YouTube](https://www.youtube.com/watch?v=fluvNA2gTlo)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -177,7 +192,9 @@
       - 박찬민님 - "웹에서 사용자가 입력 못하는 값도 \<input\>으로 보여줄까?" 에 대한 토론
       - 성기동님 - DND 소개
     - 발표
-      - [`박태성(geoseong@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile/)님 - [혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 서버리스 웹 플랫폼 서비스 구현 후기 - Frontend ver.](https://www.slideshare.net/TaeSeongPark2/nextjs-amplify-serverless-framework-frontend-ver)
+      - [`박태성(geoseong@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile/)님 - **혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 서버리스 웹 플랫폼 서비스 구현 후기 - Frontend ver.**
+        - [Slideshare](https://www.slideshare.net/TaeSeongPark2/nextjs-amplify-serverless-framework-frontend-ver)
+        - [YouTube](https://www.youtube.com/watch?v=6XVGbX4Xm4Q)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -204,7 +221,9 @@
     - Lightening Talk
       - 오거나이저 소개, 모임운영방식 공유, 참가자 적극적인 토론 독려
     - 발표
-      - [`김은수(Eunsu Kim@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/370869556/profile/)님 - [프로그래머스 프론트엔드 아키텍처 변천사: 좋은 개발 경험을 찾아서](https://www.slideshare.net/PeterEunsuKim/ss-254807863)
+      - [`김은수(Eunsu Kim@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/370869556/profile/)님 - **프로그래머스 프론트엔드 아키텍처 변천사: 좋은 개발 경험을 찾아서**
+        - [Slideshare](https://www.slideshare.net/PeterEunsuKim/ss-254807863)
+        - [YouTube](https://www.youtube.com/watch?v=M6njEpzPicE)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
