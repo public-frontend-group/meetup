@@ -18,6 +18,26 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2023년 
 
 <details>
+  <summary>11th meetup - <b>오픈마이크 토론: Next.js & Storybook.js</b></summary>
+
+  ### `11th meetup`
+  - **주최**
+    - [2023년 11월 08일 / 무신사](https://www.meetup.com/ko-KR/awskrug/events/297110060/)
+  - **주제**
+    - **오픈마이크 토론: Next.js & Storybook.js**
+      - [토론 기록](https://docs.google.com/presentation/d/1A666J9oITbC8oMhJ5kv5yLkjhzfcu21gl9R2S33qHeI/edit#slide=id.g2603dc58b58_0_5)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/f/highres_517167695.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/b/highres_517167691.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/6/highres_517167686.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/1/highres_517167681.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>10th meetup - <b>개발자가 알아야 할 API 보안 이야기</b></summary>
 
   ### `10th meetup`
