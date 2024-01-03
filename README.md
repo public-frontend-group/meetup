@@ -15,6 +15,30 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 
 # Meetups
 
+## 2024년 
+
+<details>
+  <summary>12th meetup - <b>cognito와 next-auth를 통합한 커스텀 로그인 페이지 만들기</b></summary>
+
+  ### `12th meetup`
+  - **주최**
+    - [2024년 01월 03일 / 무신사](https://www.meetup.com/ko-KR/awskrug/events/298106517/)
+  - **주제**
+    - 발표
+      - [`최지연 (최지연@Slack)`](https://www.meetup.com/members/390478412)님 - **cognito와 next-auth를 통합한 커스텀 로그인 페이지 만들기**
+        - [PPTX](./keynotes/AWSKRUG-Frontend-240103-NextAuth_With_Cognito.pdf)
+        - [YouTube(Upload Soon)]()
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="" width="350"/>
+  <img src="" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="" width="350"/>
+  <img src="" width="350"/>
+</details>
+
 ## 2023년 
 
 <details>
@@ -94,8 +118,8 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
   - **주제**
     - 발표
       - [`윤창현 (Changhyeon Yoon@Slack)`](https://linkedin.com/in/yooniversedev)님 - **React Native WebView 활용해서 Hybrid Application 만들기 (+CI/CD)**
-        - [PDF](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pdf)
-        - [PPTX](./keynotes/AWSKRUG-Frontend-0712-Changhyeon_Yoon.pptx)
+        - [PDF](./keynotes/AWSKRUG-Frontend-230712-Changhyeon_Yoon.pdf)
+        - [PPTX](./keynotes/AWSKRUG-Frontend-230712-Changhyeon_Yoon.pptx)
         - [YouTube](https://www.youtube.com/watch?v=Ecg52wAlYus)
 
 
@@ -166,7 +190,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
     - 발표
       - [`박성천 (Park Sungchun@Slack)`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님 - **서버리스로 만드는 테스트 커버리지 배지 서비스**
         - **발표 코드**: https://gitlab.com/new.sungchuni/coverages
-        - [PDF](./keynotes/230308_serverless_test_coverage_badge_service.pdf)
+        - [PDF](./keynotes/AWSKRUG-Frontend-230308-serverless_test_coverage_badge_service.pdf)
         - [YouTube](https://www.youtube.com/watch?v=xi9_uJ1no0c)
 
 
