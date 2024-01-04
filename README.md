@@ -27,7 +27,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
     - 발표
       - [`최지연 (최지연@Slack)`](https://www.meetup.com/members/390478412)님 - **cognito와 next-auth를 통합한 커스텀 로그인 페이지 만들기**
         - [PPTX](./keynotes/AWSKRUG-Frontend-240103-NextAuth_With_Cognito.pdf)
-        - [YouTube(Upload Soon)]()
+        - [YouTube](https://www.youtube.com/watch?v=1pbB_y72YoU)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
