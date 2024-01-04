@@ -31,12 +31,12 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" width="350"/>
-  <img src="" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/9/9/highres_518291161.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/9/c/highres_518291164.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" width="350"/>
-  <img src="" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/9/a/highres_518291162.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/9/d/highres_518291165.jpeg" width="350"/>
 </details>
 
 ## 2023년 
