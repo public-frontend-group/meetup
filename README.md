@@ -15,7 +15,30 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 
 # Meetups
 
-## 2024년 
+## 2024년
+
+<details>
+  <summary>13th meetup - <b>집단지성 난상토론 및 오픈마이크</b></summary>
+
+  ### `13th meetup`
+  - **주최**
+    - [2024년 02월 14일 / 무신사](https://www.meetup.com/ko-KR/awskrug/events/298730864/)
+  - **주제**
+    - **집단지성 난상토론 및 오픈마이크**
+      - [토론 기록](https://docs.google.com/presentation/d/1KvvskmF13LZ9t-8pD280KoJImR_PXLIcJJtAvX3lgFY)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/c/a/e/highres_519156014.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/c/a/f/highres_519156015.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/c/b/0/highres_519156016.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/c/b/1/highres_519156017.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/c/b/2/highres_519156018.jpeg" width="350"/>
+</details>
 
 <details>
   <summary>12th meetup - <b>cognito와 next-auth를 통합한 커스텀 로그인 페이지 만들기</b></summary>
