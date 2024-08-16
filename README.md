@@ -18,6 +18,31 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2024년
 
 <details>
+  <summary>15th meetup - <b>About Tanstack Query</b></summary>
+
+  ### `15th meetup`
+  - **주최**
+    - [2024년 08월 14일 / 무신사](https://www.meetup.com/awskrug/events/301993194/)
+  - **주제**
+    - 발표
+      - [`김민수@데브크라`]()님 - [**About Tanstack Query**](https://docs.google.com/presentation/d/1FgbGsqNCOCzJrjayTdde_CIW8ieVPIGoHko0dMg5Hrs/edit#slide=id.g2768ca7ef44_0_65)
+        > Q&A 슬라이드는 발표자 노트란에 설명이 들어있습니다.
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/6/highres_522942758.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/4/highres_522942756.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/5/highres_522942757.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/7/highres_522942759.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/8/highres_522942760.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/0/9/highres_522942761.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>14th meetup - <b>Next.js와 AWS ECS, CI/CD 그리고 CDN을 곁들인</b></summary>
 
   ### `14th meetup`
