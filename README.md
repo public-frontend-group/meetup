@@ -18,6 +18,27 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2024년
 
 <details>
+  <summary>16th meetup - <b>Next.js 우아하게 사용하기</b></summary>
+
+  ### `16th meetup`
+  - **주최**
+    - [2024년 10월 02일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/303095960/)
+  - **주제**
+    - 발표
+      - [`김승모@호두랩스`]()님 - [**Next.js 우아하게 사용하기**](https://docs.google.com/presentation/d/1rdBiJxIT8OXqJPmXaheLS8HzeFF6TuBCI-H8vqQIcA0/edit?usp=sharing)
+        - [예시 코드 링크](https://github.com/endmoseung/next-forms/)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/c/6/highres_523848326.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/c/8/highres_523848328.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/c/a/highres_523848330.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/c/9/highres_523848329.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>15th meetup - <b>About Tanstack Query</b></summary>
 
   ### `15th meetup`
