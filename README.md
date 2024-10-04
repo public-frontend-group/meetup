@@ -26,7 +26,10 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
   - **주제**
     - 발표
       - [`김승모@호두랩스`]()님 - [**Next.js 우아하게 사용하기**](https://docs.google.com/presentation/d/1rdBiJxIT8OXqJPmXaheLS8HzeFF6TuBCI-H8vqQIcA0/edit?usp=sharing)
-        - [예시 코드 링크](https://github.com/endmoseung/next-forms/)
+        - [예시 코드 프로젝트 링크](https://github.com/endmoseung/next-forms/)
+          - [standalone시연](https://drive.google.com/file/d/1KvfAIav2Cy8P7kl7x9vGAHlpsXfLfOnT/view?usp=sharing)
+          - [빌드시연](https://drive.google.com/file/d/1FVrcdt4ibckxdxEXLdSm58Jd4bIEK8zY/view?usp=sharing)
+          - [serverAction시연](https://drive.google.com/file/d/1cDhf5arje7G4o1jogDxsrkqC6v6uEJno/view?usp=sharing)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
