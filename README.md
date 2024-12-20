@@ -18,6 +18,30 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2024년
 
 <details>
+  <summary>17th meetup - <b>집단지성 토론(좋은코드란,생산성올리기,테스트코드)</b></summary>
+
+  ### `17th meetup`
+  - **주최**
+    - [2024년 12월 19일 / 무신사](https://www.meetup.com/ko-KR/awskrug/events/304821916/)
+  - **주제**
+    - **집단지성 토론**
+      - [토론 기록](https://docs.google.com/presentation/d/1FAnRZsbFad22Kh0gBrXCcQANbDRlXuAjyZeqiuEnF50)
+        - [클로바노트 - 주제1. 좋은코드란(사정에 따라 지워질 수 있음)](https://clovanote.naver.com/s/f4hWCJyEtTBzrX99rQ7fygS)
+        - [클로바노트 - 주제2.생산성올리기 & 주제3.테스트코드(사정에 따라 지워질 수 있음)](https://clovanote.naver.com/s/QhnfLVyXm7JDRJ2RXhsS7kS)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/6/4/highres_525306500.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/7/1/highres_525306513.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/6/7/highres_525306503.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/6/5/highres_525306501.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/6/6/highres_525306502.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>16th meetup - <b>Next.js 우아하게 사용하기</b></summary>
 
   ### `16th meetup`
