@@ -37,6 +37,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/1/9/6/7/highres_525306503.jpeg" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/1/9/6/5/highres_525306501.jpeg" width="350"/>
+  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/1/9/6/6/highres_525306502.jpeg" width="350"/>
 </details>
