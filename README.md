@@ -15,6 +15,31 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 
 # Meetups
 
+## 2025년
+
+<details>
+  <summary>18th meetup - <b>클라우드 문외한에서 AWS 자격증까지, 프론트엔드의 AWS 적응기</b></summary>
+
+  ### `18th meetup`
+  - **주최**
+    - [2025년 04월 02일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/306682013)
+  - **주제**
+    - 발표
+      - [`김승모@호두랩스`]()님 - [**클라우드 문외한에서 AWS 자격증까지, 프론트엔드의 AWS 적응기**](https://docs.google.com/presentation/d/1OrXeRsX0Pw-aaBL8Cqly-SZ_zZlZX60j4PosyW9i9bg/edit#slide=id.p)
+        
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/1/highres_527127377.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/2/highres_527127378.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/3/highres_527127379.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/4/highres_527127380.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/5/highres_527127381.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/a/f/6/highres_527127382.jpeg" width="350"/>
+</details>
+
 ## 2024년
 
 <details>
