@@ -18,6 +18,39 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2025년
 
 <details>
+  <summary>19th meetup - <b>타입스크립트로 배우는 Function calling부터 에이전트까지 & 내가 필요한 기능을 스스로 기여해보기(React Devtools)</b></summary>
+
+  ### `19th meetup`
+  - **주최**
+    - [2025년 05월 21일 / 당근마켓](https://www.meetup.com/ko-KR/awskrug/events/307713057)
+  - **주제**
+    - 라이트닝 토크
+      - [`장용석@리멤버앤컴퍼니`]()님 - [**내가 필요한 기능을 스스로 기여해보기(React Devtools)**](https://docs.google.com/presentation/d/1CSaPCFGPF6aCDDlTpJgTnqmuv8JVbuhuLQbYV0poVY8/edit?usp=sharing)
+    - 발표
+      - [`강경수@뤼튼 테크놀로지스`]()님 - [**타입스크립트로 배우는 Function calling부터 에이전트까지**](https://docs.google.com/presentation/d/1SwObt4QPJ-3JBxIlYRlk8KQ8EXcTPN0pULmu1Sck3Ek/edit?usp=sharing)
+        
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/3/9/highres_528097177.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/3/a/highres_528097178.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/3/b/highres_528097179.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/3/c/highres_528097180.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/3/d/highres_528097181.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/7/e/highres_528097246.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/7/f/highres_528097247.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/8/0/highres_528097248.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/8/1/highres_528097249.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/1/8/2/highres_528097250.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>18th meetup - <b>클라우드 문외한에서 AWS 자격증까지, 프론트엔드의 AWS 적응기</b></summary>
 
   ### `18th meetup`
