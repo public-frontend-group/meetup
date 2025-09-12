@@ -18,6 +18,31 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2025년
 
 <details>
+  <summary>20th meetup - <b>Next.js 생명주기 디버깅으로 눈으로 확인하기</b></summary>
+
+  ### `20th meetup`
+  - **주최**
+    - [2025년 09월 10일 / 올리브영N 성수](https://www.meetup.com/awskrug/events/310659795/)
+  - **주제**
+    - 라이트닝 토크
+      - [`김선우@AWSKRUG`](https://www.linkedin.com/in/drumgoon/)님 - [**'AWS 자격증 시험을 위한 플랫폼' 소개**](https://www.roseline-song.com/)
+    - 발표
+      - [`안건환@CJ올리브영`](https://www.meetup.com/ko-KR/awskrug/members/222503499/)님 - [**Next.js 생명주기 디버깅으로 눈으로 확인하기**](./keynotes/AWSKRUG-Frontend-250910-NextjsDebugging.pptx)
+        
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/d/c/5/highres_530140389.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/d/c/4/highres_530140388.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/d/c/3/highres_530140387.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/d/c/7/highres_530140391.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/d/c/6/highres_530140390.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/e/1/a/highres_530140474.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>19th meetup - <b>타입스크립트로 배우는 Function calling부터 에이전트까지 & 내가 필요한 기능을 스스로 기여해보기(React Devtools)</b></summary>
 
   ### `19th meetup`
