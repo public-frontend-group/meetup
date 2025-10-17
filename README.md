@@ -18,6 +18,24 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2025년
 
 <details>
+  <summary>21th meetup - <b>핸즈온: Amplify Gen 2 Workshop</b></summary>
+
+  ### `21th meetup`
+  - **주최**
+    - [2025년 10월 15일 / 센터필드 EAST 400호](https://www.meetup.com/awskrug/events/311300310/)
+  - **주제**
+    - 핸즈온 세션
+      - [**'핸즈온 - Amplify Gen 2 Workshop**](https://catalog.us-east-1.prod.workshops.aws/workshops/8388c111-24e5-43a6-97cb-cefee0e9729d/ko-KR)
+        
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/1/4/6/highres_530772614.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/1/4/5/highres_530772613.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/1/4/4/highres_530772612.webp" width="350"/>
+</details>
+
+<details>
   <summary>20th meetup - <b>Next.js 생명주기 디버깅으로 눈으로 확인하기</b></summary>
 
   ### `20th meetup`
