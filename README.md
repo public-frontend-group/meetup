@@ -26,6 +26,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
   - **주제**
     - 핸즈온 세션
       - [**'핸즈온 - Amplify Gen 2 Workshop**](https://catalog.us-east-1.prod.workshops.aws/workshops/8388c111-24e5-43a6-97cb-cefee0e9729d/ko-KR)
+        - [워크샵 실습 Help](https://hazel-shade-ecc.notion.site/AWS-Amplify-2751cee693a0800990d4f74969742e85)
         
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/3/1/4/6/highres_530772614.webp" width="350"/>
