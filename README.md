@@ -18,6 +18,30 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2025년
 
 <details>
+  <summary>22th meetup - <b>오픈소스에서 터득한 프론트엔드 실무 기술들</b></summary>
+
+  ### `22th meetup`
+  - **주최**
+    - [2025년 11월 12일 / 당근마켓](https://www.meetup.com/awskrug/events/311742206/)
+  - **주제**
+    - 라이트닝 토크
+    - 발표
+      - [`송현지@한국딥러닝`](https://www.roseline-song.com/)님 - [**오픈소스에서 터득한 프론트엔드 실무 기술들**](./keynotes/AWSKRUG-Frontend-251112-opensource_journey.pdf)
+        
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/4/b/d/highres_531265789.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/6/8/c/highres_531266252.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/4/b/e/highres_531265790.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/6/8/d/highres_531266253.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/6/7/9/highres_531266233.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/6/8/e/highres_531266254.webp?overlay=1" width="350"/>
+</details>
+
+<details>
   <summary>21th meetup - <b>핸즈온: Amplify Gen 2 Workshop</b></summary>
 
   ### `21th meetup`
@@ -44,7 +68,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
     - [2025년 09월 10일 / 올리브영N 성수](https://www.meetup.com/awskrug/events/310659795/)
   - **주제**
     - 라이트닝 토크
-      - [`김선우@AWSKRUG`](https://www.linkedin.com/in/drumgoon/)님 - [**'AWS 자격증 시험을 위한 플랫폼' 소개**](https://www.roseline-song.com/)
+      - [`김선우@AWSKRUG`](https://www.linkedin.com/in/drumgoon/)님 - [**'AWS 자격증 시험을 위한 플랫폼' 소개**](https://aws-exam.drumgoon.net/)
     - 발표
       - [`안건환@CJ올리브영`](https://www.meetup.com/ko-KR/awskrug/members/222503499/)님 - [**Next.js 생명주기 디버깅으로 눈으로 확인하기**](./keynotes/AWSKRUG-Frontend-250910-NextjsDebugging.pptx)
         
