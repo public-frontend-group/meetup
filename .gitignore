@@ -2,6 +2,12 @@
 node_modules/
 **/*.log
 
+# Yarn v4 (Berry) - local optimization files
+.yarn/install-state.gz
+.yarn/build-state.yml
+.yarn/unplugged
+.yarn/cache
+
 # Created by https://www.gitignore.io/api/intellij,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=intellij,visualstudiocode
 
