@@ -15,7 +15,33 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 
 ## Meetups
 
-## 2025년
+## 2026년
+
+<details>
+  <summary>24th meetup - <b>시니어 엔지니어들의 현업에서 느낀 AI에 대한 경험 공유</b></summary>
+
+### `24th meetup`
+
+- **주최**
+  - [2026년 4월 29일 / 당근마켓](https://www.meetup.com/ko-kr/awskrug/events/314313468)
+- **주제**
+  - 라이트닝 토크
+    - [`박성천`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님, 정욱님 - **시니어 엔지니어들의 현업에서 느낀 AI에 대한 경험 공유**
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/3/highres_535872867.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/4/highres_535872868.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/6/highres_535872870.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/8/highres_535872872.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/5/highres_535872869.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/2/4/7/highres_535872871.webp" width="350"/>
+  <br>
+
+</details>
 
 <details>
   <summary>23th meetup - <b>프론트엔드 개발자의 시선으로 다시 설계한 웹 클라우드 인프라</b></summary>
@@ -37,6 +63,8 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
   <br>
 
 </details>
+
+## 2025년
 
 <details>
   <summary>22th meetup - <b>오픈소스에서 터득한 프론트엔드 실무 기술들</b></summary>
