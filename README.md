@@ -23,7 +23,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ### `25th meetup`
 
 - **주최**
-  - [2026년 4월 29일 / 리멤버앤컴퍼니](https://www.meetup.com/ko-kr/awskrug/events/316824282)
+  - [2026년 10월 21일 / 리멤버앤컴퍼니](https://www.meetup.com/ko-kr/awskrug/events/316824282)
 - **주제**
   - 발표1
     - [`정준원`](linkedin.com/in/준원-정-540620302)님 - [**가는 문서가 고와야 오는 코드가 곱다**]()
