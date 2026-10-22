@@ -18,12 +18,57 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
 ## 2026년
 
 <details>
+  <summary>25th meetup - <b>AI 노하우 전수 라이트닝 토크 </b></summary>
+
+### `25th meetup`
+
+- **주최**
+  - [2026년 4월 29일 / 리멤버앤컴퍼니](https://www.meetup.com/ko-kr/awskrug/events/316824282)
+- **주제**
+  - 발표1
+    - [`정준원`](linkedin.com/in/준원-정-540620302)님 - [**가는 문서가 고와야 오는 코드가 곱다**]()
+  - 발표2
+    - [`재환`]()님 - [**버전 마이그레이션을 AI로 안전하게 할 수 있을까?**]()
+  - 발표3
+    - [`이용재`](https://www.linkedin.com/in/voidmatcha)님 - [**AI가 만든 E2E 테스트를 어디까지 믿을 수 있을까?**](https://voidmatcha.art/talks/awskrug-e2e-2026-ko)
+      - [발표자료 PDF ver](./keynotes/AWSKRUG-Frontend-261021-Yongjae-Can You Trust E2E Tests That Pass.pdf)
+  - 발표4
+    - [`이수석`](https://www.meetup.com/members/402565792/)님 - [**비개발자가 AI로 프론트엔드를 만들며 배운 안전벨트 4가지**](keynotes/AWSKRUG-Frontend-261021-SooseokLee-AI_safetybelt_handout.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/c/0/highres_536726816.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/8/highres_536726600.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/a/highres_536726602.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/b/e/highres_536726814.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/b/a/highres_536726810.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/9/highres_536726601.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/b/9/highres_536726809.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/d/highres_536726605.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/b/5/highres_536726805.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/c/highres_536726604.webp?overlay=1" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/8/b/0/highres_536726800.webp?overlay=1" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/7/e/e/highres_536726606.webp?overlay=1" width="350"/>
+  <br>
+
+</details>
+
+<details>
   <summary>24th meetup - <b>시니어 엔지니어들의 현업에서 느낀 AI에 대한 경험 공유</b></summary>
 
 ### `24th meetup`
 
 - **주최**
-  - [2026년 4월 29일 / 당근마켓](https://www.meetup.com/ko-kr/awskrug/events/314313468)
+  - [2026년 4월 29일 / 리멤버앤컴퍼니](https://www.meetup.com/ko-kr/awskrug/events/314313468)
 - **주제**
   - 라이트닝 토크
     - [`박성천`](https://www.meetup.com/ko-KR/awskrug/members/379333254/profile)님, 정욱님 - **시니어 엔지니어들의 현업에서 느낀 AI에 대한 경험 공유**
