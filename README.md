@@ -31,7 +31,7 @@ AWS와 관련된 내용 뿐만 아니라 순수하게 프론트엔드 분야의 
     - [`재환`]()님 - [**버전 마이그레이션을 AI로 안전하게 할 수 있을까?**]()
   - 발표3
     - [`이용재`](https://www.linkedin.com/in/voidmatcha)님 - [**AI가 만든 E2E 테스트를 어디까지 믿을 수 있을까?**](https://voidmatcha.art/talks/awskrug-e2e-2026-ko)
-      - [발표자료 PDF ver](./keynotes/AWSKRUG-Frontend-261021-Yongjae-Can You Trust E2E Tests That Pass.pdf)
+      - <a href="./keynotes/AWSKRUG-Frontend-261021-Yongjae-Can You Trust E2E Tests That Pass.pdf">발표자료 PDF ver</a>
   - 발표4
     - [`이수석`](https://www.meetup.com/members/402565792/)님 - [**비개발자가 AI로 프론트엔드를 만들며 배운 안전벨트 4가지**](keynotes/AWSKRUG-Frontend-261021-SooseokLee-AI_safetybelt_handout.pdf)
 
